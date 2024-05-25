@@ -295,7 +295,7 @@ display_categories: ["blockquotes"] # these categories will be displayed on the 
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [van Krieken]
+  last_name: [van Krieken, Krieken]
   first_name: [Emile, E., E]
 
   style: apa
